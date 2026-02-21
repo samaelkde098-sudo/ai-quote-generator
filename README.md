@@ -7,10 +7,15 @@ Generate motivational quotes instantly, switch themes, and copy your favorite qu
 # 🚀 Features
 
 🎯 Generate real-time quotes from a free API
+
 📂 Basic category selection (UI-based)
+
 📋 Copy quote to clipboard
+
 🌙 Dark mode toggle
+
 ⚡ Async JavaScript (Fetch API)
+
 📱 Fully responsive design
 
 # 🖥 Tech Stack
