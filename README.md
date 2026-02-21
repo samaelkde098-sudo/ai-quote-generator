@@ -1,10 +1,10 @@
-✨ AI Quote Generator
+# ✨ AI Quote Generator
 
 A clean and simple AI-powered quote generator built using HTML, CSS, and JavaScript.
 
 Generate motivational quotes instantly, switch themes, and copy your favorite quotes — all inside a distraction-free minimalist interface.
 
-🚀 Features
+##🚀 Features
 
 🎯 Generate real-time quotes from a free API
 📂 Basic category selection (UI-based)
@@ -13,7 +13,7 @@ Generate motivational quotes instantly, switch themes, and copy your favorite qu
 ⚡ Async JavaScript (Fetch API)
 📱 Fully responsive design
 
-🖥 Tech Stack
+##🖥 Tech Stack
 
 HTML5
 CSS3
@@ -21,20 +21,20 @@ Vanilla JavaScript
 Fetch API
 Browser Clipboard API
 
-🌐 API Used
+##🌐 API Used
 
 Quotes are fetched from the free ZenQuotes API.
 
 No API key required.
 
-🧠 How It Works
+##🧠 How It Works
 
 Quotes are fetched asynchronously using JavaScript async/await.
 The DOM updates dynamically when a new quote is generated.
 Dark mode toggles a CSS class for theme switching.
 Clipboard API allows one-click copying of quotes.
 
-🛠 Installation
+##🛠 Installation
 
 Clone the repository:
 
