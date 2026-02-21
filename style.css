@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    transition: 0.3s;
+}
+
+.container {
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    width: 400px;
+    text-align: center;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+}
+
+.quote-box {
+    margin: 20px 0;
+}
+
+button {
+    margin: 5px;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    background: black;
+    color: white;
+}
+
+select {
+    padding: 5px;
+    margin-top: 10px;
+}
+
+/* Dark Mode */
+.dark {
+    background: #121212;
+    color: white;
+}
+
+.dark .container {
+    background: #1e1e1e;
+}
